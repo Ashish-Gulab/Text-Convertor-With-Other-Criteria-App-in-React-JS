@@ -7,4 +7,4 @@
 
 1. This Project can convert the text from UpperCase to LowerCase or vise-versa.
 2. This Project can be used for copy the text, clear the text and remove the extra spaces.
-3. Also the feature of darl mode is enabled in this app.
+3. Also the feature of dark mode is enabled in this app.
